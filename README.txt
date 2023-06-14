@@ -31,6 +31,7 @@ Technical Requirements
 Stretch Goals
 
  - The program allows you to track multiple accounts
+   - options list (displaying list of unique account numbers from CSV file)
  - The program can analyze profit and loss for a specific month or year
  - The program can provide high level stats, such as average transaction size
  - The program can track and analyze transactions by specific customers or vendors
