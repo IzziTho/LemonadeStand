@@ -1,9 +1,14 @@
-Item, Type, Amount, Date
-Capital from Uncle,Income,200.0,06-01-2023
-10 lemons,Expense,3.0,06-01-2023
-1kg sugar,Expense,1.75,06-01-2023
-2kg ice,Expense,3.5,06-01-2023
-Table,Expense,22.99,06-01-2023
-Tablecloth,Expense,6.0,06-01-2023
-3 jugs,Expense,9.99,06-01-2023
-1 lemonade,Income,2.5,06-02-2023
+Account, Item, Type, Amount, Date
+Lemonade Stand,Capital from Uncle,Income,200.0,06-01-2023
+Lemonade Stand,10 lemons,Expense,3.0,06-01-2023
+Lemonade Stand,1kg sugar,Expense,1.75,06-01-2023
+Lemonade Stand,2kg ice,Expense,3.5,06-01-2023
+Lemonade Stand,Table,Expense,22.99,06-01-2023
+Lemonade Stand,Tablecloth,Expense,6.0,06-01-2023
+Lemonade Stand,3 jugs,Expense,9.99,06-01-2023
+Lemonade Stand,1 lemonade,Income,2.5,06-02-2023
+Muffin Stand,Capital from Dad,Income,150.0,07-01-2023
+Muffin Stand,Pre-made muffin mix,Expense,12.99,07-01-2023
+Lemonade Stand,1 lemonade,Income,2.5,06-02-2023
+Muffin Stand,Muffin cases,Expense,3.99,07-01-2023
+Lemonade Stand,3 cups of lemonade,Income,7.5,07-02-2023
