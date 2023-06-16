@@ -30,7 +30,7 @@ Technical Requirements
 
 Stretch Goals
 - [x] The program allows you to track multiple accounts
-- [] The program can analyze profit and loss for a specific month or year
-- [] The program can provide high level stats, such as average transaction size
-- [] The program can track and analyze transactions by specific customers or vendors
+- [ ] The program can analyze profit and loss for a specific month or year
+- [ ] The program can provide high level stats, such as average transaction size
+- [ ] The program can track and analyze transactions by specific customers or vendors
 
